@@ -29,4 +29,10 @@ Selinux= disabled.
       name: ansible-role-nexus3.
 ```
 **License**
-MIT License
+MIT License  
+
+
+https://alinacyber.com
+
+
+https://github.com/Alina-2013/Nexus3-1.git
